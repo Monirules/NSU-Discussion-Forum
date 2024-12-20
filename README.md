@@ -1,27 +1,31 @@
-Project Name - NSU Discussion Forum
-NSU Discussion Forum is my CSE 482 Project. Students of North South University can share their opinion, idea, review &amp; discuss about anything in this site. 
-The site will be like Blog/Forum type site. Collaborators of this project are Monirul Islam and Hafeza Akter. 
+# NSU Discussion Forum
 
-Features:
-1. Signup/Login only with email.
-2. User Profile.
-3. Users can Post, Comment, Reply.
-4. Send Feedback.
-5. Admin Dashboard.
-6. Admin can add, edit & delete users.
-7. Admin can edit posts.
-8. Admin can view feedback.
-9. Admin can search any user & get info.
+**NSU Discussion Forum** is a platform where students of North South University can share opinions, ideas, reviews, and engage in discussions. It functions like a blog/forum site and is developed as part of the **CSE 482** project by **Monirul Islam** and **Hafeza Akter**.
 
+## Features
+- **Signup/Login**: Users can register and log in using their email.
+- **User Profile**: Each user has their own profile.
+- **Post, Comment, and Reply**: Users can create posts, comment on others' posts, and reply to comments.
+- **Send Feedback**: Users can submit feedback on the platform.
+- **Admin Dashboard**: Admin has full control over the site.
+  - Admin can **add**, **edit**, and **delete** users.
+  - Admin can **edit posts**.
+  - Admin can **view feedback**.
+  - Admin can **search users** and view user information.
 
-Hosting: https://nsu-discussion-forum.000webhostapp.com
-Github: https://github.com/Monirul-Islam-Mahmud/NSU-Discussion-Forum
+## Hosting
+- Live Site: [NSU Discussion Forum](https://nsu-discussion-forum.000webhostapp.com)
+- GitHub Repository: [NSU Discussion Forum Repo](https://github.com/Monirul-Islam-Mahmud/NSU-Discussion-Forum)
 
-Demo Normal Username: Monirul
-Demo Normal Password: mahmud123
+## Demo Login
+- **Normal User Username**: Monirul  
+- **Normal User Password**: mahmud123
 
-Admin Panel Link:  https://nsu-discussion-forum.000webhostapp.com/admin.php
-Admin Username: Monirul
-Admin Pass: mahmud123
+## Admin Panel
+- **Admin Panel Link**: [Admin Dashboard](https://nsu-discussion-forum.000webhostapp.com/admin.php)
+- **Admin Username**: Monirul  
+- **Admin Password**: mahmud123
 
-Thank You!
+---
+
+Thank you!
