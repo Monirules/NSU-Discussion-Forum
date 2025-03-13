@@ -1,5 +1,7 @@
 # NSU Discussion Forum
 
+![image](https://github.com/user-attachments/assets/1edb1be9-b69a-43e3-8667-98c81fff825d)
+
 **NSU Discussion Forum** is a platform where students of North South University can share opinions, ideas, reviews, and engage in discussions. It functions like a blog/forum site and is developed as part of the **CSE 482** project by **Monirul Islam** and **Hafeza Akter**.
 
 ## Features
